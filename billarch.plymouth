@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=billarch Plymouth
+Description=Minimalistic loading screen for billarch
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/billarch/assets
+ScriptFile=/usr/share/plymouth/themes/billarch/billarch.script
